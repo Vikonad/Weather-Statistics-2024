@@ -1,12 +1,12 @@
-# a simple python script for adding data
-
 import json
 
 date = input("date: ")
 minn = input("min: ")
 maxx = input("max: ")
-humidity = input("humidity: ")
-rainfall = input("rainfall: ")
+sunrise = input("sunrise: ")
+sunset = input("sunset: ")
+moonrise = input("moonrise: ")
+moonset = input("moonset: ")
 
 with open("data.json", "r") as data:
     data = json.load(data)
@@ -14,8 +14,10 @@ with open("data.json", "r") as data:
 data["2024"][date] = {
     "min":minn,
     "max":maxx,
-    "humidity":humidity,
-    "rainfall":rainfall
+    "sunrise":sunrise,
+    "sunset":sunset,
+    "moonrise":moonrise,
+    "moonset":moonset
 }
 
 with open("data.json", "w") as file:
