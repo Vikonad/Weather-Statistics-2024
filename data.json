@@ -5,8 +5,16 @@
             "max": "15",
             "sunrise": "7:37",
             "sunset": "16:49",
-            "moonrise": "22:12",
-            "moonset": "10:59"
+            "moonrise": "10:59",
+            "moonset": "22:12"
+        },
+        "01/02": {
+            "min": "12",
+            "max": "16",
+            "sunrise": "7:37",
+            "sunset": "16:50",
+            "moonrise": "23:12",
+            "moonset": "11:18"
         }
     }
 }
