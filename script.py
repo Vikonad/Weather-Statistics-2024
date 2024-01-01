@@ -1,3 +1,5 @@
+# a simple python script for adding new data
+
 import json
 
 date = input("date: ")
