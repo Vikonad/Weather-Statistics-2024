@@ -3,7 +3,7 @@
         "01/01": {
             "min": "6",
             "max": "16",
-            "sunrise": "7:37",
+            "sunrise": "07:37",
             "sunset": "16:49",
             "moonrise": "10:59",
             "moonset": "22:12"
@@ -11,10 +11,122 @@
         "02/01": {
             "min": "11",
             "max": "15",
-            "sunrise": "7:37",
+            "sunrise": "07:37",
             "sunset": "16:50",
             "moonrise": "11:18",
             "moonset": "23:12"
+        },
+        "03/01": {
+            "min": "11",
+            "max": "16",
+            "sunrise": "07:37",
+            "sunset": "16:51",
+            "moonrise": "-",
+            "moonset": "11:36"
+        },
+        "04/01": {
+            "min": "10",
+            "max": "18",
+            "sunrise": "07:37",
+            "sunset": "16:51",
+            "moonrise": "00:13",
+            "moonset": "11:55"
+        },
+        "05/01": {
+            "min": "12",
+            "max": "16",
+            "sunrise": "07:37",
+            "sunset": "16:52",
+            "moonrise": "01:15",
+            "moonset": "12:15"
+        },
+        "06/01": {
+            "min": "9",
+            "max": "14",
+            "sunrise": "07:37",
+            "sunset": "16:53",
+            "moonrise": "02:21",
+            "moonset": "12:38"
+        },
+        "07/01": {
+            "min": "7",
+            "max": "12",
+            "sunrise": "07:37",
+            "sunset": "16:54",
+            "moonrise": "03:29",
+            "moonset": "13:06"
+        },
+        "08/01": {
+            "min": "5",
+            "max": "12",
+            "sunrise": "07:37",
+            "sunset": "16:55",
+            "moonrise": "04:41",
+            "moonset": "13:42"
+        },
+        "09/01": {
+            "min": "3",
+            "max": "11",
+            "sunrise": "07:37",
+            "sunset": "16:56",
+            "moonrise": "05:52",
+            "moonset": "14:30"
+        },
+        "10/01": {
+            "min": "2",
+            "max": "11",
+            "sunrise": "07:37",
+            "sunset": "16:57",
+            "moonrise": "07:00",
+            "moonset": "15:30"
+        },
+        "11/01": {
+            "min": "3",
+            "max": "12",
+            "sunrise": "07:36",
+            "sunset": "16:58",
+            "moonrise": "07:59",
+            "moonset": "16:44"
+        },
+        "12/01": {
+            "min": "5",
+            "max": "12",
+            "sunrise": "07:36",
+            "sunset": "16:59",
+            "moonrise": "08:46",
+            "moonset": "18:04"
+        },
+        "13/01": {
+            "min": "7",
+            "max": "13",
+            "sunrise": "07:36",
+            "sunset": "17:01",
+            "moonrise": "09:23",
+            "moonset": "19:25"
+        },
+        "14/01": {
+            "min": "8",
+            "max": "13",
+            "sunrise": "07:35",
+            "sunset": "17:02",
+            "moonrise": "09:54",
+            "moonset": "20:45"
+        },
+        "15/01": {
+            "min": "7",
+            "max": "13",
+            "sunrise": "07:35",
+            "sunset": "17:03",
+            "moonrise": "10:20",
+            "moonset": "22:02"
+        },
+        "16/01": {
+            "min": "6",
+            "max": "13",
+            "sunrise": "07:34",
+            "sunset": "17:04",
+            "moonrise": "10:43",
+            "moonset": "23:17"
         }
     }
 }
