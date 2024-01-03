@@ -1,3 +1,4 @@
+# a simple python script for adding new data
 import json
 
 date = input("date: ")
@@ -23,7 +24,6 @@ data["2024"][date] = {
 # for example: 8:00 -> 08:00
 for i in ["sunrise","sunset","moonrise","moonset"]:
     if len(data["2024"][date][i].split(":")[0]) == 1 :
-        print("gg")
         data["2024"][date][i] = "0" + data["2024"][date][i]
 
 with open("data.json", "w") as file:
